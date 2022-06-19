@@ -5,3 +5,5 @@ git commit -m "message"=> adding to all changes to local repo
 git remote add text ..(link frm github).
 git remote -v
 git push
+def add()
+
